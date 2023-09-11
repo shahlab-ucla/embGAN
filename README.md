@@ -2,10 +2,10 @@
 
 Architecture and training code based on [SegAN: Semantic Segmentation with Adversarial Learning](https://github.com/YuanXue1993/SegAN/).
 
-### Dependencies
-python 3.10
+**Dependencies**
 
-[Pytorch 1.13.1](http://pytorch.org/)
+- python 3.10
+- [Pytorch 1.13.1](http://pytorch.org/)
 
 **Data**
 
