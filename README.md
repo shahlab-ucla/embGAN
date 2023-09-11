@@ -16,3 +16,7 @@ Architecture and training code based on [SegAN: Semantic Segmentation with Adver
 - Run with: CUDA_VISIBLE_DEVICES=X(your GPU id) python train.py --cuda.
 	Default output folder is ./outputs. 
 - Training includes validation, we report validation results every epoch, validation images will be saved in the outputs folder.
+
+**Inference**
+
+- Run with: CUDA_VISIBLE_DEVICES=X(your GPU id) python inference.py --model_path [path to weights] --data_path [path to data] --out_path [save path]
