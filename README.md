@@ -1,5 +1,4 @@
-# embGAN: seGAN network for label-free cell detection in nematode embryos
-
+# embGAN: seGAN network for label-free cell detection in 3D images
 Architecture and training code based on [SegAN: Semantic Segmentation with Adversarial Learning](https://github.com/YuanXue1993/SegAN/).
 
 **Dependencies**
