@@ -1,6 +1,8 @@
 # embGAN: seGAN network for label-free cell detection in 3D images
 Architecture and training code based on [SegAN: Semantic Segmentation with Adversarial Learning](https://github.com/YuanXue1993/SegAN/).
 
+Training data available from www.datadryad.org DOI: 10.5061/dryad.zcrjdfnkz
+
 **Dependencies**
 
 - python 3.10
